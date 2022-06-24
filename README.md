@@ -11,3 +11,4 @@ My documentation during the course organized by [Digital Talent Scholarship](htt
 - Natural Language Processing (NLP)
   - Course Notes
   - Sarcasm News
+  - IMDB Reviews
