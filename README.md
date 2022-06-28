@@ -12,3 +12,4 @@ My documentation during the course organized by [Digital Talent Scholarship](htt
   - Course Notes
   - Sarcasm News
   - IMDB Reviews
+  - Emotion Detection
