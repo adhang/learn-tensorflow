@@ -13,3 +13,5 @@ My documentation during the course organized by [Digital Talent Scholarship](htt
   - Sarcasm News
   - IMDB Reviews
   - Emotion Detection
+- Time Series Forecasting
+  - Google Stock Price
